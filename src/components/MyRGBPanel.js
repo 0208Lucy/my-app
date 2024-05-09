@@ -25,7 +25,6 @@ function MyRGBPanel() {
     <>
       <div style={panelCSS}>
         <h3>MyRGB元件</h3>
-        <h4>4A9G0906施婉柔</h4>
         <div
           style={{
             backgroundColor: `rgb(${r}, ${g}, ${b})`,
