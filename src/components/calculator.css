@@ -21,4 +21,37 @@
 
 .buttons{
     display: inline-block;
+    margin: 10px;
+}
+
+.btn{
+    background-color: #323232;
+    color: white;
+    padding: 5%;
+    border: 0px;
+    border-radius: 50%;
+    width: 60px;
+    margin: 5px;
+    font-size: 25px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.btn-action{
+    background-color: brown;
+    color: bisque;
+}
+
+.btn-operator{
+    background-color: darkorange;
+}
+
+.btn-0{
+    width: 130px;
+    border-radius: 30px;
+}
+
+.btn:hover,
+.btn-0:hover{
+
 }
